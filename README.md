@@ -2,7 +2,7 @@
 
 <div align = "center">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=issac&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chief7852&show_icons=true&theme=radical)
 
 <br/>
 <strong>ISSAC JUNG</strong><br><br>
