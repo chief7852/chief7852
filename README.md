@@ -1,3 +1,6 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchief7852&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+     ![Hits](https://img.shields.io/github/followers/chief7852?label=Follow)
+
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=200&section=header&fontSize=90)
 
 <div align = "center">
@@ -18,9 +21,12 @@ Success usually comes to those who are too busy to be looking for it.
     
 ●●●
 
-<br/>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchief7852&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+
+    
+### :mailbox_with_mail: Contacts
+    
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chief7852@naver.com)](mailto:chief7852@naver.com)
 <a href="https://instagram.com/alpox.dev">
     <img 
@@ -34,14 +40,16 @@ Success usually comes to those who are too busy to be looking for it.
 
 <br/>
 
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=black"/><br>
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
-<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/><br>
-<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
+### :cyclone: Skill's 
+    
+<img src="https://img.shields.io/badge/Java-★★★☆☆-0696D7?style=flat-square&logo=Java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Oracle-★★★☆☆-F80000?style=flat-square&logo=Oracle&logoColor=black"/>
+<img src="https://img.shields.io/badge/HTML-★★★☆☆-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-★★☆☆☆-1572B6?style=flat-square&logo=CSS3&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/JavaScript-★★☆☆☆-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/jQuery-★★★★☆-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>
+<img src="https://img.shields.io/badge/Amazon AWS-★★☆☆☆-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring-★★★☆☆-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
 
 </div>
 
