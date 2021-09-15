@@ -28,7 +28,7 @@ Success usually comes to those who are too busy to be looking for it.
 ### :mailbox_with_mail: Contacts
     
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chief7852@naver.com)](mailto:chief7852@naver.com)
-<a href="https://instagram.com/alpox.dev">
+<a href="https://sac4686.tistory.com/">
     <img 
         src="http://img.shields.io/badge/-Tistory-black?style=flat&logo=Tistory&link=https://sac4686.tistory.com/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
