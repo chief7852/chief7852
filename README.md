@@ -2,7 +2,7 @@
      ![Hits](https://img.shields.io/github/followers/chief7852?label=Follow)
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=ISSAC%20&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%20Let%20me%20introduce%20my%20self!&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=ISSAC%20&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%20Let%20me%20introduce%20my%20self!&descAlignY=51&descAlign=62)
 <h3>🙋‍♂️ Who am I</h3>
 <div>
 <a style="float:right" href="https://solved.ac/12161542">
