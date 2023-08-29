@@ -10,7 +10,7 @@
 </a>
 
 - 🤩 I'm interested in OOP.
-- 💼 I work at IBDATA in Daejeon.
+- 💼 I worked at IBDATA in Daejeon.
 - 🎒 I go to  The Cyber University of Korea.
 - 😎 I want to study more, so I go to college and work at the same time.
 </div>
